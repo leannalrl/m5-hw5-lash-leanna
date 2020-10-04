@@ -18,5 +18,10 @@
   }
 
 h1{
+  padding-bottom: 2%;
+}
+
+.container-fluid{
   text-align: center;
+  padding-bottom: 3%;
 }
